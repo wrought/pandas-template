@@ -10,5 +10,5 @@ Includes a `requirements.txt` file to help you easily:
     pip install -r requirements.txt
 
 ## Workshop Samples
-Includes samples and tests from this (PyData Pandas workshop)[http://www.meetup.com/San-Francisco-PyData/events/113481092/]
+Includes samples and tests from this [PyData Pandas workshop](http://www.meetup.com/San-Francisco-PyData/events/113481092/)
 
